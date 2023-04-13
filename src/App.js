@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           Aqui tirando un número random: {uuid()}
         </p>
-        <h4>Hubo un cambio</h4>
+        <h4>Hubo un cambio      </h4>
         <a
           className="App-link"
           href="https://reactjs.org"
