@@ -12,6 +12,7 @@ function App() {
           Aqui tirando un número random: {uuid()}
         </p>
         <h4>Hubo un cambio      </h4>
+        <h3>Agregamos otro cambio nuevo</h3>
         <a
           className="App-link"
           href="https://reactjs.org"
