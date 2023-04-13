@@ -7,20 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       
-        <p>
-          <h1>bIENVENIDOS A NUESTRA PRIMERA WEBBBBB!!!!</h1>
-          Aqui tirando un número random: {uuid()}
-        </p>
-        <h4>Hubo un cambio      </h4>
-        <h3>Agregamos otro cambio nuevo</h3>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Partiendo en maquetacion</h1>
       </header>
     </div>
   );

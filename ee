@@ -1,0 +1,35 @@
+[33mcommit 48faedd761b611a9818d1f4be09b081c942e718e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Thu Apr 13 16:36:58 2023 -0400
+
+    limpiamos el home
+
+[33mcommit 1b0273064ffacad581e32c178841c0bbd88a932d[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Thu Apr 13 16:35:58 2023 -0400
+
+    se quitaron cosas del home
+
+[33mcommit 671eb924ece06c315b217a38034d346716b15c00[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Thu Apr 13 16:27:19 2023 -0400
+
+    cambio en la pagina principal
+
+[33mcommit 705cbdf81d7823afb9557f8135adef95a5485cf3[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Thu Apr 13 15:50:11 2023 -0400
+
+    primer commir
+
+[33mcommit d4e04ef31f352f11b209a35b5c334ccc13bb230d[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Tue Apr 11 22:32:00 2023 -0400
+
+    Archivos por subir
+
+[33mcommit f0365dad98c774d149fad122e3f240594ee37292[m
+Author: Mauricio Zuñiga <mantonio.zr@gmail.com>
+Date:   Tue Apr 11 22:18:44 2023 -0400
+
+    Initialize project using Create React App
